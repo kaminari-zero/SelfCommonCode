@@ -1,0 +1,30 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/res/res.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/tween/tween.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/JqueryAnimationMoni/Util.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Main.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/EventManageMoni/Event.js",
+		"bin-debug/EventManageMoni/EventManager.js",
+		"bin-debug/JqueryAnimationMoni/animation.js",
+		"bin-debug/JqueryAnimationMoni/myanimationeffect.js",
+		"bin-debug/JqueryAnimationMoni/tween.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/MyAnimation/Animation.js",
+		"bin-debug/MyAnimation/Tween.js",
+		"bin-debug/MyAnimation/Utils.js",
+		"bin-debug/MyEvent/Event.js",
+		"bin-debug/MyEvent/EventDispatcher.js",
+		"bin-debug/MyEvent/EventManager.js",
+		"bin-debug/MyEvent/EventManagerNew.js",
+		"bin-debug/PromiseAnimationMoni/animation.js"
+	]
+}
